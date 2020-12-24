@@ -13,14 +13,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="078a8bf7-ddd0-46cb-84da-41d51cf0601e" name="Default Changelist" comment="" />
+    <list default="true" id="078a8bf7-ddd0-46cb-84da-41d51cf0601e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BinarySearch/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinarySearch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BinarySearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinarySearch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1Alghorithm/.idea/.idea.Lab1Alghorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1Alghorithm/.idea/.idea.Lab1Alghorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1Alghorithm/Lab1Alghorithm/obj/Debug/netcoreapp3.1/Lab1Alghorithm.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1Alghorithm/Lab1Alghorithm/obj/Debug/netcoreapp3.1/Lab1Alghorithm.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BinarySearch/Program.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1lxp3gHwxClbN0AgmXuVDwabKcP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,6 +81,7 @@
       <workItem from="1608548407969" duration="1262000" />
       <workItem from="1608551620909" duration="15000" />
       <workItem from="1608551672897" duration="10000" />
+      <workItem from="1608702548973" duration="997000" />
     </task>
     <servers />
   </component>
@@ -87,21 +106,29 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1608550456211">
-      <screen x="0" y="25" width="1440" height="783" />
+    <state width="1398" height="171" key="GridCell.Tab.0.bottom" timestamp="1608708508647">
+      <screen x="0" y="25" width="1440" height="788" />
     </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608703031771" />
     <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.25.1440.783@0.25.1440.783" timestamp="1608550456211" />
-    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1608550456211">
-      <screen x="0" y="25" width="1440" height="783" />
+    <state width="1398" height="171" key="GridCell.Tab.0.bottom/0.25.1440.788@0.25.1440.788" timestamp="1608708508647" />
+    <state width="1398" height="171" key="GridCell.Tab.0.center" timestamp="1608708508646">
+      <screen x="0" y="25" width="1440" height="788" />
     </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608703031770" />
     <state width="1398" height="198" key="GridCell.Tab.0.center/0.25.1440.783@0.25.1440.783" timestamp="1608550456211" />
-    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1608550456210">
-      <screen x="0" y="25" width="1440" height="783" />
+    <state width="1398" height="171" key="GridCell.Tab.0.center/0.25.1440.788@0.25.1440.788" timestamp="1608708508646" />
+    <state width="1398" height="171" key="GridCell.Tab.0.left" timestamp="1608708508646">
+      <screen x="0" y="25" width="1440" height="788" />
     </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608703031770" />
     <state width="1398" height="198" key="GridCell.Tab.0.left/0.25.1440.783@0.25.1440.783" timestamp="1608550456210" />
-    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1608550456211">
-      <screen x="0" y="25" width="1440" height="783" />
+    <state width="1398" height="171" key="GridCell.Tab.0.left/0.25.1440.788@0.25.1440.788" timestamp="1608708508646" />
+    <state width="1398" height="171" key="GridCell.Tab.0.right" timestamp="1608708508647">
+      <screen x="0" y="25" width="1440" height="788" />
     </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608703031771" />
     <state width="1398" height="198" key="GridCell.Tab.0.right/0.25.1440.783@0.25.1440.783" timestamp="1608550456211" />
+    <state width="1398" height="171" key="GridCell.Tab.0.right/0.25.1440.788@0.25.1440.788" timestamp="1608708508647" />
   </component>
 </project>

@@ -66,7 +66,7 @@ namespace BinarySearch
             Array.Sort(arr);
             int comparisonCountForBinarySearch = 0;
             int comparisonCountForInterpolationSearch = 0;
-            const int needValue = 169;
+            const int needValue = 50;
             if (!arr.Contains(needValue))
             {
                 throw new ArgumentException($"This array doesn't contain your number {needValue}");
