@@ -60,21 +60,7 @@ namespace Graphs
             }
             return contiguityCopy;
         }
-
-        public void AddVertex()
-        {
-            contiguity.Add(new List<int>());
-        }
-
-        public void RemoveVertex(int index)
-        {
-            contiguity.RemoveAt(index);
-            foreach(List<int> neighbors in contiguity)
-            {
-                neighbors.Remove(index);
-            }
-        }
-
+        
         public void AddEdge(int vertexA, int vertexB)
         {
             if (vertexA != vertexB && !contiguity[vertexA].Contains(vertexB))

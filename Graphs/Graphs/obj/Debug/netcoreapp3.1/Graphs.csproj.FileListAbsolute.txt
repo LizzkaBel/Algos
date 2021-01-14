@@ -1,0 +1,12 @@
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/bin/Debug/netcoreapp3.1/Graphs.deps.json
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/bin/Debug/netcoreapp3.1/Graphs.runtimeconfig.json
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/bin/Debug/netcoreapp3.1/Graphs.runtimeconfig.dev.json
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/bin/Debug/netcoreapp3.1/Graphs.dll
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/bin/Debug/netcoreapp3.1/Graphs.pdb
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/obj/Debug/netcoreapp3.1/Graphs.csprojAssemblyReference.cache
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/obj/Debug/netcoreapp3.1/Graphs.AssemblyInfoInputs.cache
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/obj/Debug/netcoreapp3.1/Graphs.AssemblyInfo.cs
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/obj/Debug/netcoreapp3.1/Graphs.csproj.CoreCompileInputs.cache
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/obj/Debug/netcoreapp3.1/Graphs.dll
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/obj/Debug/netcoreapp3.1/Graphs.pdb
+/Users/lizabelyavskaya/Desktop/Algos/Graphs/Graphs/obj/Debug/netcoreapp3.1/Graphs.genruntimeconfig.cache
